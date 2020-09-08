@@ -1,6 +1,11 @@
+<a href="https://gifer.com/en/Dtf">
+  <img align="right" src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/see_no_evil_monkey_256_1.gif" width=25% height=20% />
+</a>
+
 ### Falaa Dev, eu sou o Ruy 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ruyymon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=ruyymon)
+[![Discord DM](https://img.shields.io/badge/Discord-Ruyy%238136-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/channels/@me/405734752143015937/)
 
 <!--
 **ruymon/ruymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
