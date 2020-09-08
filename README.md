@@ -2,22 +2,35 @@
   <img align="right" src="https://d1j8pt39hxlh3d.cloudfront.net/uploads/see_no_evil_monkey_256_1.gif" width=25% height=20% />
 </a>
 
-### Falaa Dev, eu sou o Ruy 👋
+## Hi there, Dev! 👋 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ruyymon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=ruyymon)
 [![Discord DM](https://img.shields.io/badge/Discord-Ruyy%238136-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/405734752143015937/)
+---
 
-<!--
-**ruymon/ruymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p>
+  My name is <strong>Ruy</strong>, I'm 16 and was born and rased in Brazil! I'm passionate about technology and always seek for new adventures. 
+</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "*If you can't make it good, at least make it look good.*" - Bill Gates
+
+
+
+<h3 align="center">Languages, Frameworks and Tools:</h3>
+<p align="center">
+<img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS" width="26px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+</p>
+
+<br>
+
+<img align="left" alt="Ruy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruymon&theme=vue&show_icons=true&hide_border=true" />
+<img align="right" alt="Ruy's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruymon&layout=compact&theme=vue&show_icons=true&hide_border=true" />
+
+
