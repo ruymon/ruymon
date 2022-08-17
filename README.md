@@ -11,7 +11,7 @@
 <br>
 
 <p>
-  My name is <strong>Ruy</strong>, I'm 17 and was born and raised in Brazil! I'm passionate about technology and always seek new adventures.
+  My name is <strong>Ruy</strong>, I'm 18 and was born and raised in Brazil! I'm passionate about technology and always seek new adventures.
 </p>
 <br>
 
