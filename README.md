@@ -1,38 +1,81 @@
-<a href="https://gifer.com/en/Dtf">
-  <img align="right" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" width=25% height=20% />
-</a>
-
-## Hi there, Dev! 👋 
+# Hi, <br> I am Ruy! :wave:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ruyymon?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruyymon&screen_name=ruyymon)
 [![Discord DM](https://img.shields.io/badge/Discord-Ruyy%232416-7289DA?logo=Discord&style=for-the-badge)](https://discordapp.com/users/405734752143015937/)
----
 
-<br>
 
-<p>
-  My name is <strong>Ruy</strong>, I'm 18 and was born and raised in Brazil! I'm passionate about technology and always seek new adventures.
-</p>
-<br>
+I'm passionate about technology and always seek new adventures.
 
 > "*If you can't make it good, at least make it look good.*" - Bill Gates
 
 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-<img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img alt="CSS" width="26px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
-<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26px" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26" />
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" />
-<img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="Figma" width="28" />
-<img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</p>
+## Languages and Tools:
 
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/coffeescript/2F2625" height="40" alt="coffeescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eslint/4B32C3" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/prisma/2D3748" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+</div>
+
+
+### 🔥 My Stats
 
 <img align="left" alt="Ruy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ruymon&theme=vue&show_icons=true&hide_border=true" />
 <img align="right" alt="Ruy's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruymon&layout=compact&theme=vue&show_icons=true&hide_border=true" />
